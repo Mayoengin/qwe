@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/mayo/static/css/main.7275c83f.css",
+    "main.js": "/mayo/static/js/main.a3c7d8bf.js",
+    "static/js/453.acca0757.chunk.js": "/mayo/static/js/453.acca0757.chunk.js",
+    "static/media/stock.png": "/mayo/static/media/stock.9176f9b1244c473778cd.png",
+    "static/media/profile-pic.PNG": "/mayo/static/media/profile-pic.b0e1b625fafd5c06c81f.PNG",
+    "static/media/ecg.jpg": "/mayo/static/media/ecg.b78d6943e24bea01019c.jpg",
+    "static/media/github.png": "/mayo/static/media/github.caeb9ff86e1c3e87612e.png",
+    "static/media/host.jpg": "/mayo/static/media/host.11cd8b7193d9c2bfba70.jpg",
+    "static/media/react.png": "/mayo/static/media/react.07d9e407d4e491c548d5.png",
+    "static/media/git.png": "/mayo/static/media/git.985a7327fc7347ebdba0.png",
+    "static/media/python.png": "/mayo/static/media/python.07a98139a3638f2a224b.png",
+    "static/media/node.png": "/mayo/static/media/node.e328955d6bbbf3ebc72b.png",
+    "static/media/nurslink.PNG": "/mayo/static/media/nurslink.b09ce44803b46d4f5854.PNG",
+    "static/media/phone-call.png": "/mayo/static/media/phone-call.9f67e819001cd616ba13.png",
+    "static/media/profile.png": "/mayo/static/media/profile.4bb671e7777621c71d6a.png",
+    "static/media/css.png": "/mayo/static/media/css.d1a3c1e59ca82dbdf815.png",
+    "static/media/api.png": "/mayo/static/media/api.b4448407872dc2a02104.png",
+    "static/media/energy.webp": "/mayo/static/media/energy.997d21673debf937c1af.webp",
+    "static/media/figma.png": "/mayo/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/email.png": "/mayo/static/media/email.a2f2146f929409405da0.png",
+    "static/media/typescript.png": "/mayo/static/media/typescript.af108db04a54d784da9b.png",
+    "static/media/linkedin.png": "/mayo/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/javascript.png": "/mayo/static/media/javascript.3dfb665e058d08c99f28.png",
+    "static/media/game.jpeg": "/mayo/static/media/game.b061189390e77a4bc44c.jpeg",
+    "index.html": "/mayo/index.html",
+    "main.7275c83f.css.map": "/mayo/static/css/main.7275c83f.css.map",
+    "main.a3c7d8bf.js.map": "/mayo/static/js/main.a3c7d8bf.js.map",
+    "453.acca0757.chunk.js.map": "/mayo/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7275c83f.css",
+    "static/js/main.a3c7d8bf.js"
+  ]
+}
